@@ -4,7 +4,7 @@ run-name:  Testing env variable
 on: [push]
 
 env:
-  owner_name: Abhi
+  owner_name: Marco
 
 jobs:
   use_env_var:
